@@ -8,6 +8,6 @@ def square_array(array)
 end
 
 
-#def square_array(array)
-#  array.inject {|num| num ** 2}
-#end
+def square_array(array)
+  array.inject {|num| num ** 2}
+end
